@@ -51,13 +51,11 @@ I am looking for opportunities in Sports Technology companies where I can apply 
 </td>
 <td>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210910011149.png" alt="Python" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/postgresql.png" alt="CPP" /></code>
+<code><img height="20" src="https://github.com/David0C/David0C/blob/2388568f6472c8f14a927f911acfaac91aa578a3/MySQL_Image.png" alt="CPP" /></code>
 <code><img height="20" src="https://github.com/David0C/David0C/blob/bd97d87689b4ef664e2b044a5a0263bc91a31228/SQL.png" alt="Markdown" /></code>
+<code><img height="20" src="https://github.com/David0C/David0C/blob/e754bfea52a6a28eee9cc5091b4f5b67b78830eb/PostgreSQL.webp" alt="Html" /></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="Latex" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="Html" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Javascript" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="Java" /></code>
+
 </td>
 </tr>
     
