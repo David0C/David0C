@@ -41,7 +41,7 @@ I am looking for opportunities in Sports Technology companies where I can apply 
     
 <tr>
 <td>
-📚: Libraries
+📚 Libraries
 </td>
 <td>
 <code><img height="20" src="https://github.com/David0C/David0C/blob/21ade2989a8311b44f0ca558d242a070eb775433/Pandas.png" alt="Pandas" /></code>
@@ -55,7 +55,7 @@ I am looking for opportunities in Sports Technology companies where I can apply 
 
 <tr>
 <td>
-⚒️: Tools
+⚒️ Tools
 </td>
 <td>
 <code><img height="20" src="https://gcore.jsdelivr.net/gh/YuZhangWang/Creative-pictures02@master/img/pycharm.svg" alt="Pycharm" /></code>
