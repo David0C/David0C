@@ -31,10 +31,10 @@ I am looking for opportunities in Sports Technology companies where I can apply 
 </td>
 <td>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210910011149.png" alt="Python" /></code>
-<code><img height="30" src="https://github.com/David0C/David0C/blob/2388568f6472c8f14a927f911acfaac91aa578a3/MySQL_Image.png" alt="CPP" /></code>
-<code><img height="30" src="https://github.com/David0C/David0C/blob/bd97d87689b4ef664e2b044a5a0263bc91a31228/SQL.png" alt="Markdown" /></code>
-<code><img height="30" src="https://github.com/David0C/David0C/blob/e754bfea52a6a28eee9cc5091b4f5b67b78830eb/PostgreSQL.webp" alt="Html" /></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="Latex" /></code>
+<code><img height="30" src="https://github.com/David0C/David0C/blob/2388568f6472c8f14a927f911acfaac91aa578a3/MySQL_Image.png" alt="MySQL" /></code>
+<code><img height="30" src="https://github.com/David0C/David0C/blob/bd97d87689b4ef664e2b044a5a0263bc91a31228/SQL.png" alt="SQL" /></code>
+<code><img height="30" src="https://github.com/David0C/David0C/blob/e754bfea52a6a28eee9cc5091b4f5b67b78830eb/PostgreSQL.webp" alt="PostgreSQL" /></code>
+<code><img height="30" src="https://github.com/David0C/David0C/blob/bc7f92d8f5aff33843cee72fb7be7d820bda4493/overleaf.png" alt="Overleaf" /></code>
 
 </td>
 </tr>
@@ -44,12 +44,12 @@ I am looking for opportunities in Sports Technology companies where I can apply 
 📚 Libraries
 </td>
 <td>
-<code><img height="20" src="https://github.com/David0C/David0C/blob/21ade2989a8311b44f0ca558d242a070eb775433/Pandas.png" alt="Pandas" /></code>
-<code><img height="20" src="https://github.com/David0C/David0C/blob/21ade2989a8311b44f0ca558d242a070eb775433/Scikit_learn.png" alt="ScikitLearn" /></code>
-<code><img height="20" src="https://github.com/David0C/David0C/blob/21ade2989a8311b44f0ca558d242a070eb775433/matplotlib.png" alt="Pytorch" /></code>   
-<code><img height="20" src="https://github.com/David0C/David0C/blob/21ade2989a8311b44f0ca558d242a070eb775433/numpy.png" alt="Numpy"></code>
-<code><img height="20" src="https://github.com/David0C/David0C/blob/21ade2989a8311b44f0ca558d242a070eb775433/seaborn.png" alt="Seaborn" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="Opencv"></code>
+<code><img height="30" src="https://github.com/David0C/David0C/blob/21ade2989a8311b44f0ca558d242a070eb775433/Pandas.png" alt="Pandas" /></code>
+<code><img height="30" src="https://github.com/David0C/David0C/blob/21ade2989a8311b44f0ca558d242a070eb775433/Scikit_learn.png" alt="ScikitLearn" /></code>
+<code><img height="30" src="https://github.com/David0C/David0C/blob/21ade2989a8311b44f0ca558d242a070eb775433/matplotlib.png" alt="Pytorch" /></code>   
+<code><img height="30" src="https://github.com/David0C/David0C/blob/21ade2989a8311b44f0ca558d242a070eb775433/numpy.png" alt="Numpy"></code>
+<code><img height="30" src="https://github.com/David0C/David0C/blob/21ade2989a8311b44f0ca558d242a070eb775433/seaborn.png" alt="Seaborn" /></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="Opencv"></code>
 </td>
 </tr>
 
@@ -58,10 +58,10 @@ I am looking for opportunities in Sports Technology companies where I can apply 
 ⚒️ Tools
 </td>
 <td>
-<code><img height="20" src="https://gcore.jsdelivr.net/gh/YuZhangWang/Creative-pictures02@master/img/pycharm.svg" alt="Pycharm" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual-Studio-Code" /></code>
-<code><img height="20" src="https://github.com/David0C/David0C/blob/21ade2989a8311b44f0ca558d242a070eb775433/Jupyter.png" alt="Jupyter" /></code>
+<code><img height="30" src="https://gcore.jsdelivr.net/gh/YuZhangWang/Creative-pictures02@master/img/pycharm.svg" alt="Pycharm" /></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" /></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual-Studio-Code" /></code>
+<code><img height="30" src="https://github.com/David0C/David0C/blob/21ade2989a8311b44f0ca558d242a070eb775433/Jupyter.png" alt="Jupyter" /></code>
 </td>
 </tr>
 
