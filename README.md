@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-Electronic Engineer focused on developing technological solutions for football <img src="[https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/angular.svg](https://github.com/David0C/David0C/blob/main/b0af06a4c1a8e7a31ce379250130d26c-pelota-de-futbol-pentagono-silueta.webp?raw=true)" alt="" height="20">.
+Electronic Engineer focused on developing technological solutions for football <img src="[[https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/angular.svg" alt="" height="20">.
 
 I aim to bridge the gap between complex engineering (hardware, databases and systems) and its practical application on the field, using data analysis and digital tools.
 
