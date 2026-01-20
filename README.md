@@ -40,29 +40,48 @@ I am looking for opportunities in Sports Technology companies where I can apply 
 </a>
 
 ## :star2: Github Status
+</br>
+
+<!-- 常用的编程语言和常用的编程框架和IDE工具 -->
 <div align="center">
 <table>
-    <tr>
-        <!-- Github状态 -->
-        <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YuZhangWang&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="YuZhangWang's Github stats" />
-            </a>
-            <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YuZhangWang&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="YuZhangWang's Github stats" />
-            </a>
-        </td>
-        <!-- Github仓库内编程语言使用情况统计 -->
-        <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YuZhangWang&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="YuZhangWang's Language stats" />
-            </a>
-            <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YuZhangWang&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="YuZhangWang's Language stats" />
-            </a>
-        </td>
-    </tr>
+<tr>
+<td>
+:basecamp: Languages
+</td>
+<td>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210910011149.png" alt="Python" /></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="CPP" /></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" /></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="Latex" /></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="Html" /></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" /></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Javascript" /></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="Java" /></code>
+</td>
+</tr>
+    
+<tr>
+<td>
+:fishsticks: Tools
+</td>
+<td>
+<code><img height="20" src="https://gcore.jsdelivr.net/gh/YuZhangWang/Creative-pictures02@master/img/pycharm.svg" alt="Pycharm" /></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" /></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="Pytorch" /></code>   
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="Opencv"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" /></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask"></code>
+<code><img height="20" src="https://gcore.jsdelivr.net/gh/YuZhangWang/Creative-pictures02@master/img/clion.svg" alt="Clion"/></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake"/></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="Node.js"/></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" /></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual-Studio-Code" /></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original.svg" alt="openSUSE" /></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" alt="Firefox" /></code>
+</td>
+</tr>
 </table>
 </div>
-
 
