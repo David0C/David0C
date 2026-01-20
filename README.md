@@ -20,26 +20,6 @@ I am looking for opportunities in Sports Technology companies where I can apply 
 <hr>
 
 ## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
-
-<!-- Programming Languages -->
-
-<a href="https://www.python.org/" target="_blank">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</a>
-
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</a>
-
-<a href="https://www.cplusplus.com/" target="_blank">
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</a>
-
-## :star2: Github Status
 </br>
 
 <!-- Lenguajes y Herramientas -->
@@ -80,7 +60,6 @@ I am looking for opportunities in Sports Technology companies where I can apply 
 <td>
 <code><img height="20" src="https://gcore.jsdelivr.net/gh/YuZhangWang/Creative-pictures02@master/img/pycharm.svg" alt="Pycharm" /></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" /></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual-Studio-Code" /></code>
 <code><img height="20" src="https://github.com/David0C/David0C/blob/21ade2989a8311b44f0ca558d242a070eb775433/Jupyter.png" alt="Jupyter" /></code>
 </td>
