@@ -1,10 +1,11 @@
 <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/header.jpg" alt="Image showing Dennis Hartrampf, team lead software development">
 
-8+ years professional experience as software developer. <img src="https://github.com/David0C/David0C/blob/d9d5c6a89cdb64054decf3a9d1ce77c37ec893db/ball-football.webp" alt="" height="20"> Java expert. <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/kotlin.svg" alt="" height="20"> Kotlin enthusiast. Specialised in backend development and build management.
 
-Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
+Electronic Engineer focused on developing technological solutions for football. <img src="https://github.com/David0C/David0C/blob/d9d5c6a89cdb64054decf3a9d1ce77c37ec893db/ball-football.webp" alt="" height="20">
 
-Steadily growing into people management and recently into <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/angular.svg" alt="" height="20"> Angular.
+I aim to bridge the gap between complex engineering (hardware, databases and systems) and its practical application on the field, using data analysis and digital tools.
+
+I am looking for opportunities in Sports Technology companies where I can apply my technical skills to drive innovation and data-driven decision making in football.
 
 <!-- https://github-readme-stats.vercel.app/api?username=DennisHartrampf&show_icons=true -->
 <p>
