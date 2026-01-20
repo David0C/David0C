@@ -62,6 +62,7 @@ I am looking for opportunities in Sports Technology companies where I can apply 
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" /></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual-Studio-Code" /></code>
 <code><img height="30" src="https://github.com/David0C/David0C/blob/21ade2989a8311b44f0ca558d242a070eb775433/Jupyter.png" alt="Jupyter" /></code>
+<code><img height="30" src="https://github.com/David0C/David0C/blob/6d8cbd4a896d39fed87ca6d0214224d79dbd4b21/colab.png" alt="Colab" /></code>
 </td>
 </tr>
 
