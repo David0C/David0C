@@ -17,17 +17,34 @@ I am looking for opportunities in Sports Technology companies where I can apply 
 
 <hr>
 
-#### Want to Build Your Own?
+### Connect with me 🔗 :
+<br>
+<p align='center'>
+<a href="mailto:david.ortiz1@utp.edu.co" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/dvdortizc" target="_blank">
+<img src="https://img.shields.io/badge/ahmadpiracha-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/david-ortiz-83949b365/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+</p>
+<br>
 
-Do you like my profile and want to build your own? It's very simple. GitHub recently added a new feature called **Profile Readmes**. For it to work, do the following:
+## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
 
-1. Create a *special* GitHub repository with your username as repository name. My username is `DennisHartrampf` so my profile readme repository has the name `DennisHartrampf`.
-1. Add a `README.md` to this repository.
-1. Put some cool content about yourself (or anything you want) into `README.md`.
+<!-- Programming Languages -->
 
-And that's about it. The `README.md` of your profile readme repository will be displayed on your profile page. If you need inspiration, you can check out [this repository](https://github.com/abhisheknaiidu/awesome-github-profile-readme) which contains a curated list of nice profile readme repositories.
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</a>
 
------
-Credits: [DennisHartrampf](https://github.com/DennisHartrampf)
+<a href="https://www.cplusplus.com/" target="_blank">
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</a>
 
-Last Edited on: 30/08/2020
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+</a>
