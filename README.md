@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0044d0&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+David+Ortiz;I'm+Electronic+Engineer)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0044d0&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+David+Ortiz;I'm+Electronic+Engineer)
 
 Electronic Engineer focused on developing technological solutions for football. <img src="https://github.com/David0C/David0C/blob/d9d5c6a89cdb64054decf3a9d1ce77c37ec893db/ball-football.webp" alt="" height="20">
 
